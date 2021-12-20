@@ -1,0 +1,15 @@
+{
+  "name": "cat-card-app",
+  "version": "1.0.0",
+  "description": "no",
+  "main": "index.js",
+  "scripts": {
+    "test": "t"
+  },
+  "author": "Mahendra",
+  "license": "ISC",
+  "dependencies": {
+    "minimist": "^1.2.5",
+    "blend":"2.0.1"
+  }
+}
